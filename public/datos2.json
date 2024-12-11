@@ -1,0 +1,99 @@
+[
+    {
+      "nombre": "Galletas de Cannabis",
+      "ingredientes": [
+        {
+          "ingrediente": "Harina",
+          "cantidad": "2 tazas"
+        },
+        {
+          "ingrediente": "Mantequilla infusionada con cannabis",
+          "cantidad": "1 taza"
+        },
+        {
+          "ingrediente": "Azúcar",
+          "cantidad": "1 taza"
+        },
+        {
+          "ingrediente": "Huevo",
+          "cantidad": "1 unidad"
+        },
+        {
+          "ingrediente": "Esencia de vainilla",
+          "cantidad": "1 cucharadita"
+        },
+        {
+          "ingrediente": "Bicarbonato de sodio",
+          "cantidad": "1 cucharadita"
+        },
+        {
+          "ingrediente": "Sal",
+          "cantidad": "1/4 cucharadita"
+        }
+      ],
+      "instrucciones": [
+        "Precalienta el horno a 175°C (350°F).",
+        "En un tazón grande, bate la mantequilla infusionada con azúcar hasta que esté cremosa.",
+        "Añade el huevo y la esencia de vainilla, y mezcla bien.",
+        "En otro tazón, combina la harina, el bicarbonato de sodio y la sal.",
+        "Agrega los ingredientes secos a la mezcla de mantequilla y mezcla hasta obtener una masa suave.",
+        "Forma pequeñas bolitas con la masa y colócalas en una bandeja para hornear, dejando espacio entre ellas.",
+        "Hornea durante 10-12 minutos o hasta que estén doradas.",
+        "Deja enfriar antes de disfrutar."
+      ],
+      "notas": "Las cantidades de cannabis pueden ajustarse según la potencia deseada. Recuerda que el cannabis debe estar bien descarboxilado antes de usarlo."
+    },
+    {
+      "nombre": "Aceite de Cannabis",
+      "ingredientes": [
+        {
+          "ingrediente": "Flores de cannabis",
+          "cantidad": "10 gramos"
+        },
+        {
+          "ingrediente": "Aceite de coco",
+          "cantidad": "1 taza"
+        }
+      ],
+      "instrucciones": [
+        "Precalienta el horno a 110°C (230°F).",
+        "Coloca las flores de cannabis en una bandeja para hornear y hornea durante 30-40 minutos para descarboxilar el cannabis.",
+        "En una cacerola a fuego muy bajo, agrega el aceite de coco y las flores descarboxiladas.",
+        "Cocina la mezcla a fuego bajo durante 2-3 horas, removiendo ocasionalmente. Asegúrate de que la mezcla no llegue a hervir.",
+        "Deja enfriar el aceite y luego cuélalo para remover los restos de cannabis.",
+        "Guarda el aceite en un frasco hermético en un lugar oscuro y fresco."
+      ],
+      "notas": "Este aceite se puede usar como base para otros productos cannábicos o para cocinar."
+    },
+    {
+      "nombre": "Té de Cannabis",
+      "ingredientes": [
+        {
+          "ingrediente": "Flores de cannabis",
+          "cantidad": "1-2 gramos"
+        },
+        {
+          "ingrediente": "Agua",
+          "cantidad": "1 taza"
+        },
+        {
+          "ingrediente": "Leche (opcional)",
+          "cantidad": "1/4 taza"
+        },
+        {
+          "ingrediente": "Miel o azúcar",
+          "cantidad": "Al gusto"
+        }
+      ],
+      "instrucciones": [
+        "Calienta el agua en una tetera o cacerola hasta que comience a hervir.",
+        "Añade las flores de cannabis al agua caliente, reduciendo el fuego para que no hierva demasiado fuerte.",
+        "Deja reposar el cannabis en el agua caliente durante unos 10-15 minutos.",
+        "Si lo deseas, añade leche al té para mejorar la absorción de los cannabinoides, ya que la grasa en la leche ayuda a disolverlos.",
+        "Endulza al gusto con miel o azúcar.",
+        "Sirve caliente y disfruta."
+      ],
+      "notas": "Puedes variar la cantidad de cannabis según la intensidad deseada. El té puede ser más efectivo si se consume con algo graso como leche o mantequilla."
+    }
+  ]
+  
